@@ -3950,3 +3950,7 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+.backHomeButton{
+	font-size: 20px;width:300px !important;margin-left:4vw !important;
+	
+}
